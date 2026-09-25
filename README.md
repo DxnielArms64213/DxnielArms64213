@@ -14,7 +14,6 @@ I'm currently building practical experience across:
 
 * **Enterprise SOC Homelab** — Windows Server, Active Directory, Wazuh, Sysmon & detection engineering
 * **NetRecon** — Python-based network analysis and reconnaissance tool
-* **AEGIS Ω** — Long-term security engineering and AI security platform
 
 ## Completed Projects
 
